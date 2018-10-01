@@ -20,16 +20,16 @@ figcaption {
   text-align: center;
 }
 
-nav{
+nav {
   font-size: 1.125rem;
   font-weight: bold;
 }
 
-nav ol{
+nav ol {
   list-style-type: none;
 }
 
-nav a{
+nav a {
   color: #793284;
   text-decoration: underline;
 }
