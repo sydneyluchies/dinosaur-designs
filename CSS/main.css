@@ -13,6 +13,13 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
   font-family: "Patua One", cursive;
 }
+h3, h4 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: "Patua One", cursive;
+  font-size: 2;
+}
+
 
 figcaption {
   font-size: .8rem;
